@@ -73,7 +73,10 @@ export default function Work() {
   ];
 
   return (
-    <section id="work" className="min-h-screen bg-black py-10 px-2 sm:px-4 md:px-6 lg:px-8">
+    <section
+      id="work"
+      className="min-h-screen bg-black py-10 px-2 sm:px-4 md:px-6 lg:px-8"
+    >
       <div className="max-w-7xl mx-auto w-full">
         {/* Section Header */}
         <div
